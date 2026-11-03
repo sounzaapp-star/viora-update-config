@@ -1,6 +1,6 @@
 {
-  "minimum_supported_version": "13.0.5",
-  "latest_version": "13.0.5",
+  "minimum_supported_version": "13.0.8",
+  "latest_version": "13.0.8",
   "force_update": true,
   "ads_enabled": true,
   "fgcode" : "232425",
